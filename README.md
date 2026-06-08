@@ -1,105 +1,88 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Vansh%20Sharma&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20NLP%20%7C%20ML%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Hi%20👋,%20I'm%20Vansh%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20NLP%20Researcher&descAlignY=62&descSize=19&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Final+Year+B.Tech+%2B+M.Tech+%40+GBU;NLP+%7C+Transformer+Models+%7C+ABSA;Power+BI+%7C+End-to-End+ML+Pipelines;Turning+raw+data+into+real+decisions+📊)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=60&lines=🎓+Int.+B.Tech+%2B+M.Tech+(Data+Science)+%40+GBU+|+CGPA%3A+8.85;🔬+NLP+Researcher+%7C+Published+at+Micro-2026+ACT+Intl.+Conference" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=thenameisvansh&color=a78bfa&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-thenameisvansh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thenameisvansh)
-[![LeetCode](https://img.shields.io/badge/LeetCode-thenameisvansh17-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/thenameisvansh17)
-[![Gmail](https://img.shields.io/badge/Gmail-thenameisvansh17@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thenameisvansh17@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thenameisvansh)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thenameisvansh)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/thenameisvansh17)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thenameisvansh17@gmail.com)
 
 </div>
 
 ---
 
-## 👋 Hey, I'm Vansh
+## 🧑‍💻 About Me
 
-I'm a final-year **Integrated B.Tech + M.Tech (Data Science)** student at **Gautam Buddha University, Greater Noida** — and I genuinely love what I do.
-
-My work sits at the intersection of **NLP, deep learning, and data analytics**. Whether it's building transformer-based sentiment systems or crafting Power BI dashboards that actually make sense to non-technical folks — I care about making data useful, not just accurate.
-
-I've had the chance to publish research, intern as a data analyst, and work on problems that go beyond textbook assignments. Currently in my final year with a **CGPA of 8.85**, looking for opportunities where I can keep pushing that boundary.
-
-> *I don't just build models — I build things that explain themselves.*
+- 🎓 Integrated **B.Tech + M.Tech** in CSE (Data Science) from **Gautam Buddha University**, Greater Noida — *Class of 2026 | CGPA: 8.85 / 10*
+- 🔬 **NLP Researcher** — Designed a RoBERTa-based CA-WMA attention framework for Aspect-Based Sentiment Analysis (ABSA); presented at **Micro-2026 ACT International Conference, GBU**
+- 💼 **Data Analysis Intern @ GrowAI** — Built Power BI KPI dashboards, EDA pipelines, and stakeholder reports on large-scale business datasets
+- 🤖 Passionate about building end-to-end **ML/AI solutions** in NLP, Predictive Modeling & Business Analytics
+- 📊 Love transforming messy raw data into **actionable insights** people actually use
+- 🚀 Actively seeking roles in **Data Science | ML Engineering | Data Analytics**
+- 📬 Reach me at **thenameisvansh17@gmail.com**
 
 ---
 
-## 🧠 What I Work With
-
-```
-Languages       →  Python (primary), SQL (MySQL), JavaScript
-Frontend        →  HTML, CSS, JS
-Analytics       →  Power BI, Advanced Excel, Matplotlib, Seaborn
-ML / DL         →  Scikit-learn, PyTorch, HuggingFace Transformers
-Core ML Skills  →  NLP, Regression, Classification, Predictive Modeling
-Data Skills     →  EDA, Data Cleaning, KPI Tracking, Reporting
-Tools           →  Jupyter, Git, VS Code, Google Colab
-```
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![Scikit-Learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+[![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+[![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
+
+[![HuggingFace](https://img.shields.io/badge/HUGGINGFACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
+[![Transformers](https://img.shields.io/badge/TRANSFORMERS-FF6F00?style=for-the-badge&logo=python&logoColor=white)]()
+[![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
+[![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
 
 </div>
 
 ---
 
-## 💼 Experience
+## 🚀 Featured Projects
 
-### 📌 Data Analysis Intern — GrowAI *(Mar 2025 – Jun 2025 | Remote)*
-
-This was my first proper industry exposure, and it taught me more than I expected. I worked on real business datasets — messy, large-scale, and not textbook-clean. My job was to make sense of them.
-
-- Ran full EDA on large business datasets using **Python (Pandas, NumPy)** and **SQL**, flagging trends that actually mattered to stakeholders
-- Built interactive **KPI dashboards in Power BI and Excel** — the kind that people actually open in meetings
-- Set up end-to-end data preprocessing pipelines so downstream analysis didn't break on bad data
-- Wrote reports and made visualizations simple enough for non-technical teams to act on
+| 🔗 Project | 📝 Description | 🛠️ Stack | 📌 Status |
+|:---|:---|:---|:---:|
+| [**RoBERTa CA-WMA (ABSA)**](#) | Aspect-Based Sentiment Analysis with Category-Aware Multi-Head Weighted Attention on SemEval benchmarks | PyTorch, HuggingFace, RoBERTa | 📄 Research |
+| [**EV Population Data Analysis**](#) | EDA on 100K+ row EV dataset — Power BI dashboards with regional heatmaps, YoY growth & manufacturer trends | Python, Pandas, Power BI | ✅ Complete |
+| [**Heart Disease Prediction**](#) | Benchmarked Logistic Regression, Random Forest & SVM with full ROC-AUC and cross-validation analysis | Python, Scikit-learn, ML | ✅ Complete |
 
 ---
 
-## 🔬 Research
+## 💡 Domain Expertise
 
-### Aspect-Level Sentiment Analysis | RoBERTa + CA-WMA *(2026 | GBU)*
+<div align="center">
 
-This is the project I'm most proud of. We tackled **Aspect-Based Sentiment Analysis (ABSA)** — a significantly harder problem than general sentiment classification.
+```
+┌─────────────────────────┬──────────────────────────┬──────────────────────────┐
+│      DATA SCIENCE       │    MACHINE LEARNING      │        NLP / AI          │
+├─────────────────────────┼──────────────────────────┼──────────────────────────┤
+│  EDA & Data Cleaning    │  Regression & Classif.   │  Transformer Models      │
+│  KPI Dashboards         │  Predictive Modeling     │  Aspect-Based Sentiment  │
+│  Power BI & Excel       │  Feature Engineering     │  HuggingFace & PyTorch   │
+│  Statistical Analysis   │  Hyperparameter Tuning   │  RoBERTa / BERT          │
+│  Business Reporting     │  Model Evaluation        │  Attention Mechanisms    │
+└─────────────────────────┴──────────────────────────┴──────────────────────────┘
+```
 
-- Designed a **Category-Aware Multi-Head Weighted Attention (CA-WMA)** framework on top of **RoBERTa** to capture fine-grained aspect-sentiment relationships
-- Benchmarked on **SemEval datasets**, applying regularization and advanced attention mechanisms to improve contextual understanding
-- 📄 **Presented at Micro-2026 ACT International Conference, GBU** — received Certificate of Appreciation
-
----
-
-## 🚀 Projects
-
-### ⚡ EV Population Data Analysis
-`Python` `Pandas` `Power BI` | *2026*
-
-Worked with a **100K+ row EV registration dataset** from government sources — raw, messy, and rich with insight once cleaned up.
-- Uncovered adoption trends, regional distribution patterns, and model-wise growth over time
-- Built interactive Power BI dashboards with year-over-year comparisons, top manufacturer rankings, and geographic heatmaps
-- Feature engineered and enriched the dataset for cleaner downstream reporting
+</div>
 
 ---
 
-### 🫀 Heart Disease Prediction
-`Python` `Scikit-learn` `ML` | *2026*
+## 🏅 Certifications & Achievements
 
-A classic problem, but approached properly — not just slapping a random forest and calling it done.
-- Benchmarked **Logistic Regression, Random Forest, and SVM** on the UCI Heart Disease dataset
-- Applied feature engineering, hyperparameter tuning, and cross-validation throughout
-- Evaluated with **ROC-AUC, precision-recall curves, and confusion matrix analysis** — because accuracy alone isn't enough
+- 🥇 **Certificate of Appreciation** — Micro-2026 ACT International Conference, Gautam Buddha University *(Apr 2026)*
+- 📊 **Data Analysis Internship Certificate** — GrowAI *(Jul 2025)* | Python • SQL • Power BI • Excel
 
 ---
 
@@ -118,34 +101,23 @@ A classic problem, but approached properly — not just slapping a random forest
 
 ---
 
-## 🏆 Trophies
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thenameisvansh&theme=react-dark&hide_border=true&area=true&color=A78BFA&line=764ba2&point=f093fb)](https://github.com/thenameisvansh)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
 
 <div align="center">
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=thenameisvansh&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>
-
----
-
-## 📈 Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thenameisvansh&theme=react-dark&hide_border=true&area=true)](https://github.com/thenameisvansh)
-
-</div>
-
----
-
-## 🎯 What I'm Working Towards
-
-Right now I'm focused on a few things:
-
-- 🔬 Extending my ABSA research and exploring **multi-modal sentiment analysis**
-- 📦 Contributing more to open source — especially in the NLP/HuggingFace ecosystem
-- 🏢 Landing a full-time role in **Data Science / ML Engineering** after graduation in 2026
-- 💡 Keeping my LeetCode streak alive (it's harder than training transformers, honestly)
 
 ---
 
@@ -160,6 +132,6 @@ Right now I'm focused on a few things:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=120&section=footer" width="100%"/>
 
 </div>
