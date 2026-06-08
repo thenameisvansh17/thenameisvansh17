@@ -1,13 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Hi%20👋,%20I'm%20Vansh%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20NLP%20Researcher&descAlignY=62&descSize=19&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=60&lines=🎓+Int.+B.Tech+%2B+M.Tech+(Data+Science)+%40+GBU+|+CGPA%3A+8.85;🔬+NLP+Researcher+%7C+Published+at+Micro-2026+ACT+Intl.+Conference" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Hi%20👋,%20I'm%20Vansh%20Sharma&fontSize=52&fontColor=000000&fontAlignY=40&desc=Data%20Scientist%20%7C%20Data%20Analyst%20%7C%20AI%2FMachine%20Learning%20Engineer&descAlignY=62&descSize=19&animation=fadeIn" width="100%"/>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thenameisvansh)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thenameisvansh)
 [![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/thenameisvansh17)
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thenameisvansh17@gmail.com)
 
@@ -20,9 +17,9 @@
 - 🎓 Integrated **B.Tech + M.Tech** in CSE (Data Science) from **Gautam Buddha University**, Greater Noida — *Class of 2026 | CGPA: 8.85 / 10*
 - 🔬 **NLP Researcher** — Designed a RoBERTa-based CA-WMA attention framework for Aspect-Based Sentiment Analysis (ABSA); presented at **Micro-2026 ACT International Conference, GBU**
 - 💼 **Data Analysis Intern @ GrowAI** — Built Power BI KPI dashboards, EDA pipelines, and stakeholder reports on large-scale business datasets
-- 🤖 Passionate about building end-to-end **ML/AI solutions** in NLP, Predictive Modeling & Business Analytics
+- 🤖 Passionate about building end-to-end **AI/Machine Learning solutions** in NLP, Predictive Modeling & Business Analytics
 - 📊 Love transforming messy raw data into **actionable insights** people actually use
-- 🚀 Actively seeking roles in **Data Science | ML Engineering | Data Analytics**
+- 🚀 Actively seeking roles in **Data Science | Data Analytics | AI/ML Engineering**
 - 📬 Reach me at **thenameisvansh17@gmail.com**
 
 ---
@@ -59,26 +56,6 @@
 
 ---
 
-## 💡 Domain Expertise
-
-<div align="center">
-
-```
-┌─────────────────────────┬──────────────────────────┬──────────────────────────┐
-│      DATA SCIENCE       │    MACHINE LEARNING      │        NLP / AI          │
-├─────────────────────────┼──────────────────────────┼──────────────────────────┤
-│  EDA & Data Cleaning    │  Regression & Classif.   │  Transformer Models      │
-│  KPI Dashboards         │  Predictive Modeling     │  Aspect-Based Sentiment  │
-│  Power BI & Excel       │  Feature Engineering     │  HuggingFace & PyTorch   │
-│  Statistical Analysis   │  Hyperparameter Tuning   │  RoBERTa / BERT          │
-│  Business Reporting     │  Model Evaluation        │  Attention Mechanisms    │
-└─────────────────────────┴──────────────────────────┴──────────────────────────┘
-```
-
-</div>
-
----
-
 ## 🏅 Certifications & Achievements
 
 - 🥇 **Certificate of Appreciation** — Micro-2026 ACT International Conference, Gautam Buddha University *(Apr 2026)*
@@ -111,21 +88,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
 <div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=thenameisvansh&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
-<div align="center">
-
-*"Without data, you're just another person with an opinion."* — W. Edwards Deming
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thenameisvansh)
 [![Email](https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thenameisvansh17@gmail.com)
