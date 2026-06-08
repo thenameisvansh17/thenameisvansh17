@@ -1,159 +1,165 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vansh%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20ML%20Enthusiast%20%7C%20Data%20Scientist&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Vansh%20Sharma&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20NLP%20%7C%20ML%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Integrated+B.Tech-M.Tech+Student;Machine+Learning+%26+Data+Science;Web+Developer+%7C+Problem+Solver;Building+Tomorrow's+Solutions+Today)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Final+Year+B.Tech+%2B+M.Tech+%40+GBU;NLP+%7C+Transformer+Models+%7C+ABSA;Power+BI+%7C+End-to-End+ML+Pipelines;Turning+raw+data+into+real+decisions+📊)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=vanshsharma&color=38bdf8&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshsharma)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/vanshsharma)
+![Profile Views](https://komarev.com/ghpvc/?username=thenameisvansh&color=a78bfa&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thenameisvansh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thenameisvansh)
+[![LeetCode](https://img.shields.io/badge/LeetCode-thenameisvansh17-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/thenameisvansh17)
+[![Gmail](https://img.shields.io/badge/Gmail-thenameisvansh17@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thenameisvansh17@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 Hey, I'm Vansh
 
-```python
-class VanshSharma:
-    def __init__(self):
-        self.name        = "Vansh Sharma"
-        self.degree      = "Integrated B.Tech - M.Tech"
-        self.university  = "Gautam Buddha University, Greater Noida"
-        self.location    = "Delhi, India 🇮🇳"
-        self.focus       = ["Machine Learning", "Data Science", "Web Development"]
-        self.currently   = "Building intelligent systems & scalable web apps"
-        self.ask_me_about = ["ML Models", "Data Analysis", "DSA", "Web Dev"]
-        self.fun_fact    = "I debug with coffee ☕ and solve problems with logic 🧠"
+I'm a final-year **Integrated B.Tech + M.Tech (Data Science)** student at **Gautam Buddha University, Greater Noida** — and I genuinely love what I do.
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+My work sits at the intersection of **NLP, deep learning, and data analytics**. Whether it's building transformer-based sentiment systems or crafting Power BI dashboards that actually make sense to non-technical folks — I care about making data useful, not just accurate.
 
-me = VanshSharma()
-me.say_hi()
-```
+I've had the chance to publish research, intern as a data analyst, and work on problems that go beyond textbook assignments. Currently in my final year with a **CGPA of 8.85**, looking for opportunities where I can keep pushing that boundary.
+
+> *I don't just build models — I build things that explain themselves.*
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🧠 What I Work With
+
+```
+Languages       →  Python (primary), SQL (MySQL), JavaScript
+Frontend        →  HTML, CSS, JS
+Analytics       →  Power BI, Advanced Excel, Matplotlib, Seaborn
+ML / DL         →  Scikit-learn, PyTorch, HuggingFace Transformers
+Core ML Skills  →  NLP, Regression, Classification, Predictive Modeling
+Data Skills     →  EDA, Data Cleaning, KPI Tracking, Reporting
+Tools           →  Jupyter, Git, VS Code, Google Colab
+```
 
 <div align="center">
 
-### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🤖 ML / Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Experience
 
-<div align="center">
+### 📌 Data Analysis Intern — GrowAI *(Mar 2025 – Jun 2025 | Remote)*
 
-| 🔬 Project | 📝 Description | 🛠️ Tech Used |
-|:---:|:---:|:---:|
-| **🤖 ML Classifier** | End-to-end machine learning pipeline with model training, evaluation & deployment | Python, Scikit-learn, Flask |
-| **📊 Data Analytics Dashboard** | Interactive dashboard for visual data exploration and insights | Python, Pandas, Matplotlib |
-| **🌐 Web Application** | Responsive full-stack web app with clean UI/UX | HTML, CSS, JS, Node.js |
-| **🧩 DSA Solutions** | Curated solutions for competitive programming problems | Python, C++ |
+This was my first proper industry exposure, and it taught me more than I expected. I worked on real business datasets — messy, large-scale, and not textbook-clean. My job was to make sense of them.
 
-> 💡 *Pinned repos below for details — feel free to explore & star ⭐*
-
-</div>
+- Ran full EDA on large business datasets using **Python (Pandas, NumPy)** and **SQL**, flagging trends that actually mattered to stakeholders
+- Built interactive **KPI dashboards in Power BI and Excel** — the kind that people actually open in meetings
+- Set up end-to-end data preprocessing pipelines so downstream analysis didn't break on bad data
+- Wrote reports and made visualizations simple enough for non-technical teams to act on
 
 ---
 
-## 📈 GitHub Stats
+## 🔬 Research
+
+### Aspect-Level Sentiment Analysis | RoBERTa + CA-WMA *(2026 | GBU)*
+
+This is the project I'm most proud of. We tackled **Aspect-Based Sentiment Analysis (ABSA)** — a significantly harder problem than general sentiment classification.
+
+- Designed a **Category-Aware Multi-Head Weighted Attention (CA-WMA)** framework on top of **RoBERTa** to capture fine-grained aspect-sentiment relationships
+- Benchmarked on **SemEval datasets**, applying regularization and advanced attention mechanisms to improve contextual understanding
+- 📄 **Presented at Micro-2026 ACT International Conference, GBU** — received Certificate of Appreciation
+
+---
+
+## 🚀 Projects
+
+### ⚡ EV Population Data Analysis
+`Python` `Pandas` `Power BI` | *2026*
+
+Worked with a **100K+ row EV registration dataset** from government sources — raw, messy, and rich with insight once cleaned up.
+- Uncovered adoption trends, regional distribution patterns, and model-wise growth over time
+- Built interactive Power BI dashboards with year-over-year comparisons, top manufacturer rankings, and geographic heatmaps
+- Feature engineered and enriched the dataset for cleaner downstream reporting
+
+---
+
+### 🫀 Heart Disease Prediction
+`Python` `Scikit-learn` `ML` | *2026*
+
+A classic problem, but approached properly — not just slapping a random forest and calling it done.
+- Benchmarked **Logistic Regression, Random Forest, and SVM** on the UCI Heart Disease dataset
+- Applied feature engineering, hyperparameter tuning, and cross-validation throughout
+- Evaluated with **ROC-AUC, precision-recall curves, and confusion matrix analysis** — because accuracy alone isn't enough
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vanshsharma&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshsharma&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=thenameisvansh&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenameisvansh&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" height="175"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshsharma&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thenameisvansh&theme=midnight-purple&hide_border=true" height="175"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=vanshsharma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=thenameisvansh&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>
 
 ---
 
-## 📊 Contribution Graph
+## 📈 Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vanshsharma&theme=tokyo-night&hide_border=true&area=true)](https://github.com/vanshsharma)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thenameisvansh&theme=react-dark&hide_border=true&area=true)](https://github.com/thenameisvansh)
 
 </div>
 
 ---
 
-## 🎯 Current Goals
+## 🎯 What I'm Working Towards
 
-```
-✅ Master Deep Learning & Neural Networks
-✅ Build production-grade ML projects
-🔄 Contribute to Open Source
-🔄 Strengthen competitive programming skills
-⏳ Research publication in ML/AI domain
-⏳ Internship at top tech company
-```
+Right now I'm focused on a few things:
+
+- 🔬 Extending my ABSA research and exploring **multi-modal sentiment analysis**
+- 📦 Contributing more to open source — especially in the NLP/HuggingFace ecosystem
+- 🏢 Landing a full-time role in **Data Science / ML Engineering** after graduation in 2026
+- 💡 Keeping my LeetCode streak alive (it's harder than training transformers, honestly)
 
 ---
 
-## 📫 Let's Connect
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vanshsharma)
-[![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshsharma@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/vanshsharma)
+*"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
 <br/>
 
-*"The best way to predict the future is to create it." — Alan Kay*
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thenameisvansh)
+[![Email](https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thenameisvansh17@gmail.com)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
