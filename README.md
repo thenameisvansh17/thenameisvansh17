@@ -1,8 +1,6 @@
 <div align="center">
 
-# Vansh Sharma
-
-**Data Scientist · Data Analyst · AI/ML Engineer**
+![Banner](https://raw.githubusercontent.com/thenameisvansh/thenameisvansh/main/banner.svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thenameisvansh)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/thenameisvansh17)
