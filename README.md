@@ -1,6 +1,12 @@
 <div align="center">
 
-![Banner](https://raw.githubusercontent.com/thenameisvansh/thenameisvansh/main/banner.svg)
+<a href="https://github.com/thenameisvansh">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=900&size=52&duration=3000&pause=1000&color=4A5568&center=true&vCenter=true&width=900&height=120&lines=VANSH+SHARMA" alt="Vansh Sharma" />
+</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=400&size=18&duration=2000&pause=800&color=6B7280&center=true&vCenter=true&width=700&height=40&lines=Data+Scientist;Data+Analyst;AI+%2F+ML+Engineer;NLP+Researcher" alt="Roles" />
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thenameisvansh)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/thenameisvansh17)
