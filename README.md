@@ -31,6 +31,41 @@ I am actively seeking full-time opportunities in **Data Science**, **Data Analyt
 
 ---
 
+## Research & Publications
+
+### A Category-Aware Multi-Head Attention Framework with RoBERTa for Aspect-Level Sentiment Analysis of Consumer Reviews
+
+**Authors:** Vansh Sharma, Dr. Rajendra Bahadur Singh  
+**Venue:** 13th International Conference on Microelectronics Circuits and Systems — **Micro-2026**  
+**Institution:** Department of Computer Science and Engineering, Gautam Buddha University, Greater Noida, India  
+**Presented:** April 2026 · *Certificate of Appreciation awarded*
+
+**Overview**
+
+Aspect-Based Sentiment Analysis (ABSA) requires models to identify fine-grained sentiment polarities toward specific aspects within a review — a far more nuanced task than document-level sentiment classification. This paper proposes **RoBERTa-CA-WMA**, a novel framework that combines the RoBERTa encoder with a Category-Aware Weighted Multi-Head Attention mechanism to address three core limitations of existing approaches: poor aspect-context interaction, ineffective handling of neutral sentiment, and class imbalance.
+
+**Key Contributions**
+
+- **Category-Aware Attention (CA-MHA):** Introduced learnable category weight vectors that dynamically modulate attention distributions based on sentiment class (Positive / Negative / Neutral), enabling the model to focus on contextually relevant signals specific to each sentiment category.
+- **Aspect Projection Layer:** Designed a projection layer that maps aspect embeddings into the same feature space as RoBERTa's contextual representations, improving semantic alignment between aspect terms and their surrounding context.
+- **Hybrid Loss Function:** Combined Label Smoothing Cross-Entropy (to reduce overconfidence on neutral samples) with Contrastive Loss (to maximize inter-class feature separation), significantly mitigating class imbalance effects.
+- **Multi-Dropout Inference:** Applied stochastic multi-pass inference at test time to stabilize predictions and improve generalization without additional training cost.
+
+**Results on SemEval Benchmarks**
+
+| Dataset | Accuracy | F1-Score |
+|---|---|---|
+| SemEval-2014 Laptop (Lap14) | 90.68% | 90.53% |
+| SemEval-2014 Restaurant (Rest14) | 95.53% | 95.47% |
+| SemEval-2015 Restaurant (Rest15) | 87.50% | 88.41% |
+| SemEval-2016 Restaurant (Rest16) | **97.08%** | **96.95%** |
+
+The proposed model outperforms all baseline methods — including MemNet, IAN, BERT-SPC, AEGCN-BERT, and the predecessor BERT-CA-WMA — across all four benchmark datasets, with particularly strong gains in neutral sentiment handling and imbalanced data conditions.
+
+**Tech Stack:** `Python` `PyTorch` `HuggingFace Transformers` `RoBERTa` `NLP` `Deep Learning`
+
+---
+
 ## Technical Skills
 
 **Languages**
@@ -51,13 +86,6 @@ I am actively seeking full-time opportunities in **Data Science**, **Data Analyt
 ---
 
 ## Projects
-
-### Aspect-Level Sentiment Analysis using RoBERTa CA-WMA *(Research, 2026)*
-`Python` `PyTorch` `HuggingFace` `NLP` `Deep Learning`
-
-Developed a RoBERTa-based Category-Aware Multi-Head Weighted Attention framework for Aspect-Based Sentiment Analysis (ABSA). The model incorporates advanced attention mechanisms and regularization strategies to improve contextual understanding and sentiment classification on benchmark SemEval datasets. Presented at the Micro-2026 ACT International Conference, GBU.
-
----
 
 ### Electric Vehicle Population Data Analysis *(2025)*
 `Python` `Pandas` `Power BI`
